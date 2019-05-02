@@ -1,0 +1,14 @@
+O presente projeto foi desenvolvido utilizando os seguintes recursos:
+1 - Liguagem de programação - PHP;
+2 - Framework - Laravel 5.3;
+3 - Template - Materialize.
+
+Após clonar o projeto é necessário:
+1 - Acessar por terminal a pasta raiz do projeto;
+2 - Executar o comando "composer update";
+3 - Configurar o arquivo .env com as suas credenciais de banco de dados MySQL;
+4 - Executar o comando "php artisan migrate";
+5 - Executar o comando "php artisan serve";
+6 - Acessar o endereço "localhost:8000".
+
+Autor do projeto: Alexandre Manoel Pereira
